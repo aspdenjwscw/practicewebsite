@@ -9,9 +9,9 @@
 </head>
 
 <body>
-  <h1>Journal</h1>
+  <h1>Practice Website</h1>
 
-  <h2>Lesson 1 - Questions</h2>
+  <h2>Questions</h2>
 
 <h4>Why did you choose digital tech? </h4>
 I chose digital tech because I like computers and I would like to expand my knowledge regarding computers and technology. 
