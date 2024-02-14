@@ -21,8 +21,6 @@ My favourite subject is PE and my least favourite subject is
 <h4>How do you work best? (eg. individually, in a group etc)</h4>
 Depends on what it is, it varies on the task assigned.
 
-  
-  <script src="script.js"></script>
 </body>
 
 </html>
