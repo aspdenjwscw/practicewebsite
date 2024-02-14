@@ -13,11 +13,11 @@
   <h2>Questions</h2>
 
 <h4>Why did you choose digital tech? </h4>
-I chose digital tech because I like computers and I would like to expand my knowledge regarding computers and technology. 
+I chose digital tech because I hate computers and I would like to expand my knowledge regarding illegal documents. 
 <h4>What do you want to do when you leave school?</h4>
 I don't know.
-<h4>What is your favourite/least favourite subject?</h4>
-My favourite subject is PE and my least favourite subject is 
+<h4>What is your favourite/least favourite subjects?</h4>
+My favourite subject is PE and my least favourite subject is propaganda
 <h4>How do you work best? (eg. individually, in a group etc)</h4>
 Depends on what it is, it varies on the task assigned.
 
